@@ -7,3 +7,8 @@ C:\Qt\6.7.1\mingw_64\bin\windeployqt.exe .
 ```
 
 The builded application is in: Desktop_Calculator_With_C-/desktop_application_with_qt/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/debug/New folder
+
+
+This is how it looks:
+
+<img src="https://github.com/GalkaKG/DesktopCalculatorCpp/blob/main/img_gui.png?raw=true" />
