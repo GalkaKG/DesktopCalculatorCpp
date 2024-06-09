@@ -1,5 +1,5 @@
 # Desktop_Calculator_With_C-_QT
-A very basic desktop application build with QT framework.
+A very basic desktop application built with QT framework.
 
 To build the application open the terminal in wanted directory and run
 ``` bash
