@@ -1,4 +1,4 @@
-# Desktop_Calculator_With_C-_QT
+# Desktop Calculator With C++
 A very basic desktop application built with QT framework.
 
 To build the application open the terminal in wanted directory and run
