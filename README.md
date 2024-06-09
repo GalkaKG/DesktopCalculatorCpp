@@ -11,4 +11,4 @@ The builded application is in: Desktop_Calculator_With_C-/desktop_application_wi
 
 This is how it looks:
 
-<img style="width=200px; height=200px" src="https://github.com/GalkaKG/DesktopCalculatorCpp/blob/main/img_gui.png?raw=true" />
+<img style="width: 200px; height: 200px;" src="https://github.com/GalkaKG/DesktopCalculatorCpp/blob/main/img_gui.png?raw=true" />
